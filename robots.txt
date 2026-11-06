@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://droneclubpenn.com/sitemap.xml
